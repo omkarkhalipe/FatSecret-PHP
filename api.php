@@ -1,5 +1,5 @@
 <?php
-
+//Search query by GET method as srch
 $consumer_key = "xxx";
 $secret_key = "yyy";
 
